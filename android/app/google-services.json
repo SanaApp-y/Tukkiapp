@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "881567282781",
+    "project_id": "tukki-88d0a",
+    "storage_bucket": "tukki-88d0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881567282781:android:12c10b9daa8c9759a6bfb4",
+        "android_client_info": {
+          "package_name": "com.tukki.mobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881567282781-iscij1au65kq6paepd2grs3dq34ds2v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tukki.mobapp",
+            "certificate_hash": "8858bcbc15d2817527a21d9cc0148e962fa15cd0"
+          }
+        },
+        {
+          "client_id": "881567282781-bpajoa6isor8jmebnv2isopdsgt731nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMlhJE-R6aw7eRzlbLvm8V6UctpKj5_hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881567282781-bpajoa6isor8jmebnv2isopdsgt731nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
